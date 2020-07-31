@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Video-conferencing-app/static/css/main.80bf7588.chunk.css",
+    "main.js": "/Video-conferencing-app/static/js/main.a12d8fff.chunk.js",
+    "main.js.map": "/Video-conferencing-app/static/js/main.a12d8fff.chunk.js.map",
+    "runtime-main.js": "/Video-conferencing-app/static/js/runtime-main.27844fbb.js",
+    "runtime-main.js.map": "/Video-conferencing-app/static/js/runtime-main.27844fbb.js.map",
+    "static/js/2.9a244244.chunk.js": "/Video-conferencing-app/static/js/2.9a244244.chunk.js",
+    "static/js/2.9a244244.chunk.js.map": "/Video-conferencing-app/static/js/2.9a244244.chunk.js.map",
+    "index.html": "/Video-conferencing-app/index.html",
+    "precache-manifest.cd257685617ce6f388392a4a14f0ba5c.js": "/Video-conferencing-app/precache-manifest.cd257685617ce6f388392a4a14f0ba5c.js",
+    "service-worker.js": "/Video-conferencing-app/service-worker.js",
+    "static/css/main.80bf7588.chunk.css.map": "/Video-conferencing-app/static/css/main.80bf7588.chunk.css.map",
+    "static/js/2.9a244244.chunk.js.LICENSE.txt": "/Video-conferencing-app/static/js/2.9a244244.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27844fbb.js",
+    "static/js/2.9a244244.chunk.js",
+    "static/css/main.80bf7588.chunk.css",
+    "static/js/main.a12d8fff.chunk.js"
+  ]
+}
